@@ -1,0 +1,19 @@
+# OS-Specific ignores
+# Windows
+Thumbs.db
+
+# macOS
+.DS_Store
+
+# Linux
+lost+found
+
+# Stack-specific ignores
+build/
+out/
+
+# IDE-specific ignores
+.vscode/*
+!.vscode/extensions.json
+
+# Project-specific ignores
